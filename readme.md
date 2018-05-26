@@ -10,6 +10,8 @@
 
 `cp env.sample .env`
 
+`gem install bundler`
+
 `bundle install`
 
 `bundle`
